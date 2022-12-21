@@ -18,7 +18,7 @@ pip install rich
 
 pip install bs4
 
-git clone https://github.com/FLAME-1x/Flame-2004.git
+git clone https://github.com/Flame-Noob/Flame-2004.git
 
 cd Flame-2004
 
